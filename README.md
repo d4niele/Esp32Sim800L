@@ -1,7 +1,8 @@
 # Esp32Sim800L
 Prototipo per connettere la schedina ESP32 a internet attraverso un modulo SIM800L  
-Connetto il modulo SIM800L alla seriale UART2 dell'ESP32 e inseriscoo una SIM dati vodafone nello slot della SIM800L. 
-Flasho sulla schedina ESP32 la versione di Micropython  https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo che include il modulo gsm.
+ -Connetto il modulo SIM800L alla seriale UART2 dell'ESP32 e inseriscoo una SIM dati vodafone nello slot della SIM800L. 
+ -Flasho sulla schedina ESP32 la versione di Micropython  https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo che include il modulo gsm.
+
 Utilizzo il seguente codice per testare:  
 
 ```python
