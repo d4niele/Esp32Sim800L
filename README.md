@@ -7,10 +7,9 @@ Utilizzo il seguente codice per testare:
 
 ```python
 import gsm
-gsm.start(tx=17,rx=16,apn="mobile.vodafone.it")
+gsm.start(tx=17,rx=16,apn="mobile.vodafone.it") #sostituire eventualmente con i numeri di pin corretti
 gsm.ifconfig()
 gsm.status()
-gsm.start(tx=17,rx=16,apn="mobile.vodafone.it")
 gsm.connect()
 gsm.status()
 gsm.ifconfig()
