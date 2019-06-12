@@ -20,7 +20,7 @@ Se invece voglio solo mandare sms lo posso fare anche utilizzando la versione uf
 ```python
 from machine import UART
 import time
-ser = UART(2, 9600)
+ser = UART(2,  tx=17, rx=16)
 ser.init(9600, bits=8, parity=None, stop=1)
 
 def sendsms(to, message):
