@@ -41,3 +41,5 @@ https://www.treccarichi.net/2016/06/sim800l/
 https://www.instructables.com/id/ESP32-SIM800L-and-Barrier-Sensor/  
 https://articulo.mercadolibre.com.co/MCO-487675426-modulo-celular-gsm-gprs-esp800l-sim800l-sim800-arduino-5v-_JM  
 https://lastminuteengineers.com/sim800l-gsm-module-arduino-tutorial/  
+https://randomnerdtutorials.com/power-esp32-esp8266-solar-panels-battery-level-monitoring/
+
