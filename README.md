@@ -45,4 +45,5 @@ https://articulo.mercadolibre.com.co/MCO-487675426-modulo-celular-gsm-gprs-esp80
 https://lastminuteengineers.com/sim800l-gsm-module-arduino-tutorial/  
 https://randomnerdtutorials.com/power-esp32-esp8266-solar-panels-battery-level-monitoring/
 https://randomnerdtutorials.com/esp8266-voltage-regulator-lipo-and-li-ion-batteries/
+
 https://community.hiveeyes.org/t/micropython-libraries-for-the-sim800-module/1492
